@@ -1,2 +1,2 @@
 # muayua1048
-MUAYUA(무아)#0988
+MUAYUA#0988
