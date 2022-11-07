@@ -17,6 +17,6 @@
 <p align="center">
   <a href="mailto:me@mua.co.kr">me@mua.co.kr</a>
   <br>
-  <a href="https://discord.com/app">Mua#7942</a>
+  <a href="https://discord.com/app">Mua#1048</a>
 <p>
 </details>
